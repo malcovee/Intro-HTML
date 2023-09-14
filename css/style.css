@@ -1,0 +1,15 @@
+h3{
+    color: rgb(15, 14, 12);
+    background-color: rgb(255, 229, 207);
+}
+h1{
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ table, th, td {
+    border: 1px solid black
+ }
